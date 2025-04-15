@@ -27,9 +27,6 @@ This repository documents a journey through LeetCode Data Structures and Algorit
   <h2>🛠️ Tech Stack</h2>
   <ul>
     <li>TypeScript</li>
-    <li>Python</li>
-    <li>Java</li>
-    <!-- Add or remove languages as needed -->
   </ul>
 </div>
 
