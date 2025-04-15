@@ -1,7 +1,6 @@
 # 🚀 LeetCode DSA Journey
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode">
   <img src="https://img.shields.io/badge/DSA-Solutions-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIxLDRIMTdWM2MwLTAuNi0wLjQtMS0xLTFIMTBDOS40LDIsOSwyLjQsOSwzdjFINWMtMS4xLDAtMiwwLjktMiwydjE0YzAsMS4xLDAuOSwyLDIsMmgxNmMxLjEsMCwyLTAuOSwyLTJWNkMyMyw0LjksMjIuMSw0LDIxLDR6IE0xMSw0aDJ2MmgtMlY0eiBNMTQsMThoLTRhMSwxLDAsMCwxLDAtMmg0YTEsMSwwLDAsMSwwLDJ6IE0xNiwxNGgtOGExLDEsMCwwLDEsMC0yaDhhMSwxLDAsMCwxLDAsMnoiLz48L3N2Zz4=" alt="DSA">
 </div>
